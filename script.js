@@ -25,4 +25,4 @@ for(i = 0; i < n; i++)
         map.set(arr[i],i);
     }
 }
-document.write(`[ ${result[0]}, ${result[1]} ]`);
+document.write(`Answer: [ ${result[0]}, ${result[1]} ]`);
